@@ -1,0 +1,48 @@
+.Sarlavha{
+  text-align: center;
+  font-style: normal;
+  line-height: 56px;
+  size: 36px;
+  color: black;
+}
+
+text1{
+  width: 300px;
+  size: 18px;
+  font-style: normal;
+  line-height: 30px;
+}
+.ostki_chiziq{
+  width: 40px;
+  font-style: unset;
+  color: black;
+  border-radius: 5px;
+}
+li{
+display: inline-block;}
+
+pi{
+  width: 300px;
+  size: 16px; 
+  line-height: 28px;
+}
+
+div{
+  border-color: black;
+  margin-top: 5px;
+}
+
+img{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.manzil{
+  border-color: rgb(13, 17, 20); 
+  color: rgb(81, 146, 199); 
+  background-color: rgb(209, 232, 255); 
+  font-size: 20px; border-radius: 5pc; 
+  text-align: center;
+  font-style: normal;
+  text-decoration: none;
+}
